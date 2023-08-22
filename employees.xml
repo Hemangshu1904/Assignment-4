@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="employees_schema.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <employees>
     <employee1>
         <personal-information>
@@ -44,6 +45,11 @@
             <salary>80000</salary>
         </employment-information>
         <contact-information>
+            <email>singarajive@gmail.com</email>
+            <phone-number>8452107329</phone-number>
+        </contact-information>
+    </employee3>
+</employees>
             <email>singarajive@gmail.com</email>
             <phone-number>8452107329</phone-number>
         </contact-information>
